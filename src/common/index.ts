@@ -1,2 +1,2 @@
 
-export * as common from './components'
+export * from './components'
